@@ -1,5 +1,7 @@
 # Отчет о проделанной работе
 
+<img src="1.jpg" width="50%" height="50%"><img src="2.jpg" width="50%" height="50%">
+
 
 ## Инженер-программист (с++, Arduino)
 
